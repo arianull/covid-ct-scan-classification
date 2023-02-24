@@ -6,7 +6,7 @@ This project is focused on applying machine learning algorithms to COVID-19 lung
 ### Dataset
 The dataset used in this project is the COVID-19 CT Lung and Infection Segmentation Dataset. The non-COVID-19 scans include scans from patients with other types of lung infections as well as scans from healthy patients.
 
-![alt text](#?raw=true)
+![data sample](https://github.com/arianull/covid-ct-scan-classification/blob/main/sample.png?raw=true)
 
 ### Algorithms
 Support Vector Machines (SVM)
